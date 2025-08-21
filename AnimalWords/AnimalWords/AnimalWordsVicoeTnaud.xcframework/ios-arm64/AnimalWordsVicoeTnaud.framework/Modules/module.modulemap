@@ -1,0 +1,6 @@
+framework module AnimalWordsVicoeTnaud {
+  umbrella header "AnimalWordsVicoeTnaud.h"
+  export *
+
+  module * { export * }
+}
