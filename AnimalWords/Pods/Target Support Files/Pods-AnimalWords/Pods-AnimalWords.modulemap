@@ -1,0 +1,6 @@
+framework module Pods_AnimalWords {
+  umbrella header "Pods-AnimalWords-umbrella.h"
+
+  export *
+  module * { export * }
+}
